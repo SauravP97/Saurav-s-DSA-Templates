@@ -3,7 +3,7 @@
 The repository holds the implementation of many basic and advanced Data Structures and Algorithms in Java. Feel free to fork the repo and use
 it for Problem Solving or Competitive Programming or simply understanding and modifying the implementation.
 
-## Repository Contents:
+## DSA Contents:
 
 ### Supported Data Structures:
 
@@ -20,10 +20,10 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
     1. A method which takes input a list of integers from the user and returns an array of integers.
 
 
-## DSA Problem's Solved:
+## DSA Problems Solved:
 
 | S.No. | Problem Name | Link | Runtime | Tags |
 | ----- | ------------ | ---- | ------- | ---- |
 | 1.    | House Robber III | [View Problem](https://leetcode.com/problems/house-robber-iii/description/) | 5 ms | DP, Tree, DFS |
 
-Note: All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
+> All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
