@@ -12,12 +12,12 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 ### Supported Algorithms:
 
 1. Binary Tree
-  1. Building a Binary Tree from an Array.
+    1. Building a Binary Tree from an Array.
 
 2. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
 
 3. Helper Methods:
-  1. A method which takes input a list of integers from the user and returns an array of integers.
+    1. A method which takes input a list of integers from the user and returns an array of integers.
 
 
 ## DSA Problem's Solved:
