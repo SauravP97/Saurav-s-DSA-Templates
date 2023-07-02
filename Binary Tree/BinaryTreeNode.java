@@ -1,10 +1,10 @@
 package binarytree;
 
 // Class describing the node of a Binary Tree.
-class BinaryTreeNode {
-    int value;
-    BinaryTreeNode left;
-    BinaryTreeNode right;
+public class BinaryTreeNode {
+    public int value;
+    public BinaryTreeNode left;
+    public BinaryTreeNode right;
 
     public BinaryTreeNode(int value, BinaryTreeNode left, BinaryTreeNode right) {
         this.value = value;

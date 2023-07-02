@@ -1,9 +1,11 @@
-package binarytree;
+package binarytree.problems;
 
 // LeetCode Problem: https://leetcode.com/problems/house-robber-iii/ 
 // Note: We will take node with null values to be -1 instead.
 import utils.Reader;
 import utils.Helper;
+import binarytree.BinaryTreeNode;
+import binarytree.BinaryTreeHelper;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Queue;
