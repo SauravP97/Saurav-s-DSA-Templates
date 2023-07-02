@@ -1,2 +1,4 @@
-binarytree/
+# Exclude all compiled .class files.
 *.class
+
+binarytree/
