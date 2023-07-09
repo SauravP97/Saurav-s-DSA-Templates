@@ -8,6 +8,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 ### Supported Data Structures:
 
 1. Binary Tree
+2. Graph Concepts
 
 ### Supported Algorithms:
 
