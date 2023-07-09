@@ -1,4 +1,4 @@
-# Saurav's DSA Templates
+# Saurav's DSA Templates :computer:
 
 The repository holds the implementation of many basic and advanced Data Structures and Algorithms in Java. Feel free to fork the repo and use
 it for Problem Solving or Competitive Programming or simply understanding and modifying the implementation.
