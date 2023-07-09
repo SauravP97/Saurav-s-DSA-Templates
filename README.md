@@ -3,14 +3,14 @@
 The repository holds the implementation of many basic and advanced Data Structures and Algorithms in Java. Feel free to fork the repo and use
 it for Problem Solving or Competitive Programming or simply understanding and modifying the implementation.
 
-## DSA Contents: :snowflake:
+## DSA Contents :snowflake:
 
-### Supported Data Structures: :tada:
+### Supported Data Structures :tada:
 
 1. Binary Tree
 2. Graph Concepts
 
-### Supported Algorithms: :high_brightness:
+### Supported Algorithms :high_brightness:
 
 1. Binary Tree
     1. Building a Binary Tree from an Array.
@@ -27,7 +27,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
     1. A method which takes input a list of integers from the user and returns an array of integers.
 
 
-## DSA Problems Solved: :dart:
+## DSA Problems Solved :dart:
 
 | S.No. | Problem Name | Link | Runtime | Tags |
 | ----- | ------------ | ---- | ------- | ---- |
