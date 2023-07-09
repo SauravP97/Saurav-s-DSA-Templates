@@ -5,6 +5,7 @@ import utils.Reader;
 import java.io.IOException;
 import java.util.ArrayList;
 
+// Leetcode Problem: https://leetcode.com/problems/course-schedule/description/
 class CourseSchedule {
     Graph graph;
 
