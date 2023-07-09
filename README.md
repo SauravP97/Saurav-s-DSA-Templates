@@ -17,9 +17,12 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 2. Two Pointers
     1. Container with most water. 
 
-3. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
+3. Graph Concept
+    1. Course Schedule
+       
+4. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
 
-4. Helper Methods:
+5. Helper Methods:
     1. A method which takes input a list of integers from the user and returns an array of integers.
 
 
