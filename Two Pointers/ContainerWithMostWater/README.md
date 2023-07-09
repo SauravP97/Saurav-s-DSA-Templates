@@ -41,4 +41,5 @@ Hence we can safely say that for two pointers **i** and **j**, we need to move t
 We will start with our pointers i and j at the two extreme ends of the array. We will compare the height of line segments at two pointers and move the pointer at smaller line segment closer to the other pointer.
 
 ![Description](./images/img2.png "image 1")
-![Description](./images/img2.png "image 2")
+
+![Description](./images/img3.png "image 2")
