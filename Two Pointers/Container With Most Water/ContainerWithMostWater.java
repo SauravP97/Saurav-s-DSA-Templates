@@ -1,3 +1,5 @@
+package twopointers.problems;
+
 import utils.Reader;
 import utils.Helper;
 import java.io.IOException;
