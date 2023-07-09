@@ -29,6 +29,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | ----- | ------------ | ---- | ------- | ---- |
 | 1.    | [House Robber III](./Binary%20Tree/House%20Robber%203) | [View Problem](https://leetcode.com/problems/house-robber-iii/description/) | 5 ms | DP, Tree, DFS |
 | 2.    | [Container with most water](./Two%20Pointers/Container%20With%20Most%20Water) | [View Problem](https://leetcode.com/problems/container-with-most-water/description/) | 5 ms | Two Pointers, Array |
-| 3.    | [Course Schedule](./Graph%20Concept/Course%20Schedule/) [View Problem](https://leetcode.com/problems/course-schedule/description/) | 3 ms | Graphs, DFS, Directed Graphs |
+| 3.    | [Course Schedule](./Graph%20Concept/Course%20Schedule/) | [View Problem](https://leetcode.com/problems/course-schedule/description/) | 3 ms | Graphs, DFS, Directed Graphs |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
