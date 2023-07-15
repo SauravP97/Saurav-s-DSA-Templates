@@ -6,6 +6,7 @@ import utils.Helper;
 import java.io.IOException;
 import java.util.HashSet;
 
+// Leetcode Problem: https://leetcode.com/problems/number-of-provinces/
 public class NumberOfProvinces {
     public static void main (String[] args) throws IOException {
         Reader reader = new Reader();

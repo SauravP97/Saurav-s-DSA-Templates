@@ -42,6 +42,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 3.    | [Course Schedule](./Graph%20Concept/Course%20Schedule/) | [View Problem](https://leetcode.com/problems/course-schedule/description/) | 3 ms | Graphs, DFS, Directed Graphs |
 | 4.    | [Evaluate Division](./Graph%20Concept/Evaluate%20Division/) | [View Problem](https://leetcode.com/problems/evaluate-division/description/) | 8 ms | Graphs, DFS, Directed Graphs, Weighted Graphs |
 | 5.    | [Number of Provinces](./Disjoint%20Sets/Number%20Of%20Provinces/) | [View Problem](https://leetcode.com/problems/number-of-provinces/description) | 2 ms | Disjoint Union Set, Connected Components, Graph |
-
+| 6.    | [Word Break](./Dynamic%20Programming/Word%20Break/) | [View Problem](https://leetcode.com/problems/word-break/description/) | 11 ms | Recursion, Dynamic Programming |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
