@@ -13,6 +13,17 @@ public final class Helper {
         }
         return arr;
     }
+
+    public static int[][] getIntMatrix(int size, Reader reader) throws IOException {
+        int[][] mat = new int[size][size];
+        for (int i=0; i<size; i++) {
+            for (int j=0; j<size; j++) {
+                mat[i][j] = reader.nextInt();
+            }
+        }
+        return mat;
+    }
+
     // A private constructor, this class not needed to be instantiated.
     private Helper() {};
 }

@@ -21,6 +21,11 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 3. Graph Concept
     1. Making a Directed Graph
     2. Building a Weighted Directed Graph
+
+4. Disjoin Union Set
+    1. Union by Size
+    2. Path Compression
+    3. Finding Connected Components
        
 4. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
 
@@ -36,6 +41,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 2.    | [Container with most water](./Two%20Pointers/Container%20With%20Most%20Water) | [View Problem](https://leetcode.com/problems/container-with-most-water/description/) | 5 ms | Two Pointers, Array |
 | 3.    | [Course Schedule](./Graph%20Concept/Course%20Schedule/) | [View Problem](https://leetcode.com/problems/course-schedule/description/) | 3 ms | Graphs, DFS, Directed Graphs |
 | 4.    | [Evaluate Division](./Graph%20Concept/Evaluate%20Division/) | [View Problem](https://leetcode.com/problems/evaluate-division/description/) | 8 ms | Graphs, DFS, Directed Graphs, Weighted Graphs |
+| 5.    | [Number of Provinces](./Disjoint%20Sets/Number%20Of%20Provinces/) | [View Problem](https://leetcode.com/problems/number-of-provinces/description) | 2 ms | Disjoint Union Set, Connected Components, Graph |
 
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
