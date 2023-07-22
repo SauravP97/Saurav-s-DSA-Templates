@@ -9,6 +9,9 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 
 1. Binary Tree
 2. Graph Concepts
+3. Binary Heap
+4. Disjoint Union Set
+5. Tries / Prefix Tree
 
 ### Supported Algorithms :high_brightness:
 
