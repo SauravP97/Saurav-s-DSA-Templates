@@ -21,6 +21,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 3. Graph Concept
     1. Making a Directed Graph
     2. Building a Weighted Directed Graph
+    3. Computing Shortest Path - Dijkstra's with Min Heap (Optimised)
 
 4. Disjoin Union Set
     1. Union by Size
@@ -53,5 +54,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 6.    | [Word Break](./Dynamic%20Programming/Word%20Break/) | [View Problem](https://leetcode.com/problems/word-break/description/) | 11 ms | Recursion, Dynamic Programming |
 | 7.    | [Implement Trie](./Trie/Implement%20Trie/) | [View Problem](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 45 ms | Trie, Prefix Tree |
 | 8.    | [Top K Frequent Elements](./Binary%20Heap/Top%20K%20Frequent%20Elements/) | [View Problem](https://leetcode.com/problems/top-k-frequent-elements/description/) | 17 ms | Binary Max Heap |
+| 9.    | [Network Delay Time](./Graph%20Concept/Network%20Delay%20Time/) | [View Problem](https://leetcode.com/problems/network-delay-time/description/) | 76 ms | Graph, Heap, Dijkstras Algorithm, Shortest Path |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
