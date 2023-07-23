@@ -63,6 +63,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 8.    | [Top K Frequent Elements](./Binary%20Heap/Top%20K%20Frequent%20Elements/) | [View Problem](https://leetcode.com/problems/top-k-frequent-elements/description/) | 17 ms | Binary Max Heap |
 | 9.    | [Network Delay Time](./Graph%20Concept/Network%20Delay%20Time/) | [View Problem](https://leetcode.com/problems/network-delay-time/description/) | 76 ms | Graph, Heap, Dijkstras Algorithm, Shortest Path |
 | 10.    | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20In%20Pairs/) | [View Problem](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | 5 ms | Linked List |
-| 11.    | [Minimum Cost to Reach Destination in Time](./Graph%20Concept/Minimum%20Cost%20To%20Reach%20Destination%20In%20Time/) | [View Problem](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | 140 ms | Graph, Dijkstra, Priority Queue, Shortest Path |
+| 11.    | [Minimum Cost to Reach Destination in Time](./Graph%20Concept/Minimum%20Cost%20to%20Reach%20Destination%20in%20Time/) | [View Problem](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | 140 ms | Graph, Dijkstra, Priority Queue, Shortest Path |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
