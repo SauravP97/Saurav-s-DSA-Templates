@@ -12,6 +12,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 3. Binary Heap
 4. Disjoint Union Set
 5. Tries / Prefix Tree
+6. Linked List
 
 ### Supported Algorithms :high_brightness:
 
@@ -39,6 +40,9 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
     1. Binary Max Heap implementation
     2. Finding K most frequent elements
 
+8. Linked List
+    1. Swapping adjacent nodes in a Linked List
+
 8. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
 
 9. Helper Methods:
@@ -58,5 +62,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 7.    | [Implement Trie](./Trie/Implement%20Trie/) | [View Problem](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 45 ms | Trie, Prefix Tree |
 | 8.    | [Top K Frequent Elements](./Binary%20Heap/Top%20K%20Frequent%20Elements/) | [View Problem](https://leetcode.com/problems/top-k-frequent-elements/description/) | 17 ms | Binary Max Heap |
 | 9.    | [Network Delay Time](./Graph%20Concept/Network%20Delay%20Time/) | [View Problem](https://leetcode.com/problems/network-delay-time/description/) | 76 ms | Graph, Heap, Dijkstras Algorithm, Shortest Path |
+| 10.    | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20In%20Pairs/) | [View Problem](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | 5 ms | Linked List |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
