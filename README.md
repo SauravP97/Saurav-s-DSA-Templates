@@ -27,6 +27,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
     1. Making a Directed Graph
     2. Building a Weighted Directed Graph
     3. Computing Shortest Path - Dijkstra's with Min Heap (Optimised)
+    4. Cycle Detection via single DFS iteration
 
 4. Disjoin Union Set
     1. Union by Size
