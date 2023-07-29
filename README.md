@@ -70,6 +70,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 12.    | [Minimum Height Trees](./Binary%20Tree/Minimum%20Height%20Trees/) | [View Problem](https://leetcode.com/problems/minimum-height-trees/description/) | 27 ms | Tree, DFS, Longest Path, Recursion |
 | 13.    | [Find Eventual Safe States](./Graph%20Concept/Find%20Eventual%20Safe%20States/) | [View Problem](https://leetcode.com/problems/find-eventual-safe-states/description/) | 164 ms | Graph, DFS, Cycle Detection |
 | 14.    | [Sum Root to Leaf Numbers](./Binary%Tree/Sum%20Root%20To%20Leaf%20Numbers/) | [View Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | 0 ms | Binary Tree, DFS, Recursion, Number Theory |
-| 14.    | [Most Frequent Subtree Sum](./Binary%Tree/Most%20Frequent%20Subtree%20Sum/) | [View Problem](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | 6 ms | Binary Tree, DFS, Hash Tables |
+| 15.    | [Most Frequent Subtree Sum](./Binary%Tree/Most%20Frequent%20Subtree%20Sum/) | [View Problem](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | 6 ms | Binary Tree, DFS, Hash Tables |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
