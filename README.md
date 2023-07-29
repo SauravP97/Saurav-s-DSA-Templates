@@ -69,7 +69,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 11.    | [Minimum Cost to Reach Destination in Time](./Graph%20Concept/Minimum%20Cost%20to%20Reach%20Destination%20in%20Time/) | [View Problem](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | 140 ms | Graph, Dijkstra, Priority Queue, Shortest Path |
 | 12.    | [Minimum Height Trees](./Binary%20Tree/Minimum%20Height%20Trees/) | [View Problem](https://leetcode.com/problems/minimum-height-trees/description/) | 27 ms | Tree, DFS, Longest Path, Recursion |
 | 13.    | [Find Eventual Safe States](./Graph%20Concept/Find%20Eventual%20Safe%20States/) | [View Problem](https://leetcode.com/problems/find-eventual-safe-states/description/) | 164 ms | Graph, DFS, Cycle Detection |
-| 14.    | [Sum Root to Leaf Numbers](./Binary%20Tree/Sum%20Root%20To%20Leaf%20Numbers/) | [View Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | 0 ms | Binary Tree, DFS, Recursion, Number Theory |
+| 14.    | [Sum Root to Leaf Numbers](./Binary%20Tree/Sum%20Root%20to%20Leaf%20Numbers/) | [View Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | 0 ms | Binary Tree, DFS, Recursion, Number Theory |
 | 15.    | [Most Frequent Subtree Sum](./Binary%20Tree/Most%20Frequent%20Subtree%20Sum/) | [View Problem](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | 6 ms | Binary Tree, DFS, Hash Tables |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
