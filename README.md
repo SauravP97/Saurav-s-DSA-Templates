@@ -35,21 +35,21 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
     2. Path Compression
     3. Finding Connected Components
 
-6. Trie / Prefix Tree
+5. Trie / Prefix Tree
     1. Implementation
     2. Insertion, Search and Prefix Search
 
-7. Binary Heap
+6. Binary Heap
     1. Binary Max Heap implementation
     2. Finding K most frequent elements
 
-8. Linked List
+7. Linked List
     1. Swapping adjacent nodes in a Linked List
 
-9. Sliding Window
+8. Sliding Window
     1. Counting all possible subarrays with every distinct elements: [Related Problem](./Sliding%20Window/Count%20Complete%20Subarrays%20in%20an%20Array/)
 
-10. Binary Search
+9. Binary Search
     1. Finding peak in a Mountain Array: [Problem Link](./Binary%20Search/Peak%20Index%20in%20a%20Mountain%20Array/)
 
 10. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
