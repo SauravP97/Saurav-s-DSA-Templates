@@ -50,7 +50,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
     1. Counting all possible subarrays with every distinct elements: [Related Problem](./Sliding%20Window/Count%20Complete%20Subarrays%20in%20an%20Array/)
 
 10. Binary Search
-    1. Finding peak in a Mountain Array: [Problem Link](./Binary%20Search/Peak%Index%20in%20a%20Mountain%20Array/)
+    1. Finding peak in a Mountain Array: [Problem Link](./Binary%20Search/Peak%20Index%20in%20a%20Mountain%20Array/)
 
 10. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
 
@@ -80,6 +80,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 16.    | [Edit Distance](./Dynamic%20Programming/Edit%20Distance/) | [View Problem](https://leetcode.com/problems/edit-distance/description/) | 6 ms | DP, String |
 | 17.    | [Count Complete Subarrays in an Array](./Sliding%20Window/Count%20Complete%20Subarrays%20in%20an%20Array/) | [View Problem](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) | 5 ms | Hashtables, Sliding Window |
 | 18.    | [Repeated DNA Sequences](./Sliding%20Window/Repeated%20Dna%20Sequences/) | [View Problem](https://leetcode.com/problems/repeated-dna-sequences/description/) | 39 ms | Hashtables, Sliding Window |
-| 19.    | [Peak Index in a Mountain Array](./Binary%20Search/Peak%Index%20in%20a%20Mountain%20Array/) | [View Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | 0 ms | Arrays, Binary Search |
+| 19.    | [Peak Index in a Mountain Array](./Binary%20Search/Peak%20Index%20in%20a%20Mountain%20Array/) | [View Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | 0 ms | Arrays, Binary Search |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
