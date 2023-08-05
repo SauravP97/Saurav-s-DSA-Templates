@@ -1,4 +1,4 @@
-package hashtables.problems;
+package slidingwindow.problems;
 
 import utils.Reader;
 import utils.Helper;

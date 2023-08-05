@@ -46,8 +46,8 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 8. Linked List
     1. Swapping adjacent nodes in a Linked List
 
-9. Hash Tables
-    1. Sliding Window approach: [Related Problem](./Hash%20Tables/Count%20Complete%20Subarrays%20in%20an%20Array/)
+9. Sliding Window
+    1. Counting all possible subarrays with every distinct elements: [Related Problem](./Sliding%20Window/Count%20Complete%20Subarrays%20in%20an%20Array/)
 
 10. Fast IO for taking inputs in huge amount. Suited for Competitive Programming.
 
@@ -75,6 +75,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 14.    | [Sum Root to Leaf Numbers](./Binary%20Tree/Sum%20Root%20to%20Leaf%20Numbers/) | [View Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | 0 ms | Binary Tree, DFS, Recursion, Number Theory |
 | 15.    | [Most Frequent Subtree Sum](./Binary%20Tree/Most%20Frequent%20Subtree%20Sum/) | [View Problem](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | 6 ms | Binary Tree, DFS, Hash Tables |
 | 16.    | [Edit Distance](./Dynamic%20Programming/Edit%20Distance/) | [View Problem](https://leetcode.com/problems/edit-distance/description/) | 6 ms | DP, String |
-| 17.    | [Count Complete Subarrays in an Array](./Hash%20Tables/Count%20Complete%20Subarrays%20in%20an%20Array/) | [View Problem](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) | 5 ms | Hashtables, Sliding Window |
+| 17.    | [Count Complete Subarrays in an Array](./Sliding%20Window/Count%20Complete%20Subarrays%20in%20an%20Array/) | [View Problem](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) | 5 ms | Hashtables, Sliding Window |
+| 18.    | [Repeated DNA Sequences](./Sliding%20Window/Repeated%20Dna%20Sequences/) | [View Problem](https://leetcode.com/problems/repeated-dna-sequences/description/) | 39 ms | Hashtables, Sliding Window |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
