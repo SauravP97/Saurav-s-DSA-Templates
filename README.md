@@ -85,5 +85,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 19.    | [Peak Index in a Mountain Array](./Binary%20Search/Peak%20Index%20in%20a%20Mountain%20Array/) | [View Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | 0 ms | Arrays, Binary Search |
 | 20.    | [Search a 2D Matrix](./Binary%20Search/Search%20a%202D%20Matrix/) | [View Problem](https://leetcode.com/problems/search-a-2d-matrix/description/) | 0 ms | 2D Array (Matrix), Binary Search |
 | 21.    | [Water and Jug Problem](./Graph%20Concept/Water%20and%20Jug%20Problem/) | [View Problem](https://leetcode.com/problems/water-and-jug-problem/description/) | 1482 ms | BFS, Graph, Maths |
+| 22.    | [Pacific Atlantic Water Flow](./Graph%20Concept/Pacific%20Atlantic%20Water%20Flow/) | [View Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | 4 ms | BFS, Graph, Matrix |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
