@@ -40,6 +40,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 5. Trie / Prefix Tree
     1. Implementation
     2. Insertion, Search and Prefix Search
+    3. A Data Structure to Search Word and Patterns
 
 6. Binary Heap
     1. Binary Max Heap implementation
@@ -89,5 +90,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 22.    | [Pacific Atlantic Water Flow](./Graph%20Concept/Pacific%20Atlantic%20Water%20Flow/) | [View Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | 4 ms | BFS, Graph, Matrix |
 | 23.    | [Island Perimeter](./Graph%20Concept/Island%20Perimeter/) | [View Problem](https://leetcode.com/problems/island-perimeter/description/) | 5 ms | Graph, Matrix |
 | 24.    | [Battleships in a Board](./Graph%20Concept/Battleships%20in%20a%20Board/) | [View Problem](https://leetcode.com/problems/battleships-in-a-board/description/) | 1 ms | Graph, DFS, Matrix |
+| 25.    | [Design Add and Search Words Data Structure](./Trie/Design%20Add%20and%20Search%20Words%20Data%20Structure/) | [View Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 270 ms | Trie, DFS, Design, String |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
