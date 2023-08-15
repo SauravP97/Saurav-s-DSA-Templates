@@ -40,7 +40,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 5. Trie / Prefix Tree
     1. Implementation
     2. Insertion, Search and Prefix Search
-    3. A Data Structure to Search Words and Patterns (BFS on Tries) [Problem Link]((./Trie/Design%20Add%20and%20Search%20Words%20Data%20Structure/))
+    3. A Data Structure to Search Words and Patterns (BFS on Tries) [Problem Link](./Trie/Design%20Add%20and%20Search%20Words%20Data%20Structure/)
 
 6. Binary Heap
     1. Binary Max Heap implementation
