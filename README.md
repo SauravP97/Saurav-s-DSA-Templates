@@ -31,6 +31,7 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
     4. Cycle Detection via single DFS iteration
     5. Water and Jug Problem (BFS) [Problem Link](./Graph%20Concept/Water%20and%20Jug%20Problem/)
     6. Count number of Battleships on the board (DFS) [Problem Link](./Graph%20Concept/Battleships%20in%20a%20Board/)
+    7. Returning a range of numbers in Lexicographical Order (DFS) [Problem Link](./Graph%20Concept/Lexicographical%20Numbers/)
 
 4. Disjoin Union Set
     1. Union by Size
@@ -91,5 +92,6 @@ it for Problem Solving or Competitive Programming or simply understanding and mo
 | 23.    | [Island Perimeter](./Graph%20Concept/Island%20Perimeter/) | [View Problem](https://leetcode.com/problems/island-perimeter/description/) | 5 ms | Graph, Matrix |
 | 24.    | [Battleships in a Board](./Graph%20Concept/Battleships%20in%20a%20Board/) | [View Problem](https://leetcode.com/problems/battleships-in-a-board/description/) | 1 ms | Graph, DFS, Matrix |
 | 25.    | [Design Add and Search Words Data Structure](./Trie/Design%20Add%20and%20Search%20Words%20Data%20Structure/) | [View Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 270 ms | Trie, DFS, Design, String |
+| 26.    | [Lexicographical Numbers](./Graph%20Concept/Lexicographical%20Numbers/) | [View Problem](https://leetcode.com/problems/lexicographical-numbers/description/) | 4 ms | Tree, DFS, Number Theory |
 
 > All the DSA Problems' solution implements the Data Structures and Algorithms from this repo to achieve the above mentioned Runtime.
